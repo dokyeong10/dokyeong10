@@ -1,5 +1,6 @@
 
-### Hi there ![logo](https://raw.githubusercontent.com/dl0312/dl0312/master/hi.gif)
+## Hi there <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="25px">
+<br/>
 <div align=left>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdokyeong10&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
